@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrowserTravelAPI", "BrowserTravelAPI\BrowserTravelAPI.csproj", "{745C7A8E-D7F6-4A05-8B8A-FA4006FE99D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrowserTravelWeb", "BrowserTravelWeb\BrowserTravelWeb.csproj", "{F616140B-EEDD-4412-AD7D-2603FA033C3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{745C7A8E-D7F6-4A05-8B8A-FA4006FE99D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{745C7A8E-D7F6-4A05-8B8A-FA4006FE99D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{745C7A8E-D7F6-4A05-8B8A-FA4006FE99D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{745C7A8E-D7F6-4A05-8B8A-FA4006FE99D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F616140B-EEDD-4412-AD7D-2603FA033C3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F616140B-EEDD-4412-AD7D-2603FA033C3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F616140B-EEDD-4412-AD7D-2603FA033C3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F616140B-EEDD-4412-AD7D-2603FA033C3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CCFF500-0446-4B9E-8A33-CEDB02062B24}
+	EndGlobalSection
+EndGlobal
